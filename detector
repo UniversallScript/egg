@@ -15,14 +15,14 @@ local petTable = {
     ["Legendary Egg"] = { "Cow", "Polar Bear", "Sea Otter", "Turtle", "Silver Monkey" },
     ["Mythical Egg"] = { "Grey Mouse", "Brown Mouse", "Squirrel", "Red Giant Ant" },
     ["Bug Egg"] = { "Snail", "Caterpillar", "Giant Ant", "Praying Mantis" },
-    ["Night Egg"] = { "Raccoon", "Hedgehog", "Mole", "Echo Frog", "Night Owl" },
+    ["Night Egg"] = { "Raccoon", "Hedgehog", "Mole", "Echo Frog", "Night Owl", "Hedgehog", },
     ["Bee Egg"] = { "Bee", "Honey Bee", "Bear Bee", "Petal Bee" },
     ["Anti Bee Egg"] = { "Disco Bee", "Moth", "Disco Bee" },
     ["Oasis Egg"] = { "Meerkat", "Sand Snake", "Axolotl" },
     ["Paradise Egg"] = { "Mimic Octopus", "Peacock", "Capybara" },
-    ["Dinosaur Egg"] = { "Raptor", "T-rex", "Stegosaurus" },
+    ["Dinosaur Egg"] = { "Raptor", "Raptor", "Stegosaurus" },
     ["Primal Egg"] = { "Parasaurolophus", "Spinosaurus", "Spinosaurus" },
-    ["Zen Egg"] = { "Shiba Inu", "Kitsune", "Kitsune" },
+    ["Zen Egg"] = { "Shiba Inu", "Shiba Inu", "Kitsune", "Shiba Inu" },
 }
 
 -- ESP + Randomizing Logic
